@@ -1,6 +1,6 @@
 {
   "name": "usage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "zackalpha": "^0.0.1",
-    "zackbeta": "^0.0.1"
+    "zackalpha": "^0.0.2",
+    "zackbeta": "^0.0.2"
   },
   "keywords": [],
   "author": "",
